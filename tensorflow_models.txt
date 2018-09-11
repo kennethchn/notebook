@@ -1,0 +1,62 @@
+models 模块和介绍：
+adversarial_crypto: protecting communications with adversarial neural cryptography.
+adversarial_text: semi-supervised sequence learning with adversarial training.
+attention_ocr: a model for real-world image text extraction.
+audioset: Models and supporting code for use with AudioSet.
+autoencoder: various autoencoders.
+cognitive_mapping_and_planning: implementation of a spatial memory based mapping and planning architecture for visual navigation.
+compression: compressing and decompressing images using a pre-trained Residual GRU network.
+delf: deep local features for image matching and retrieval.
+differential_privacy: privacy-preserving student models from multiple teachers.
+domain_adaptation: domain separation networks.
+gan: generative adversarial networks.
+im2txt: image-to-text neural network for image captioning.
+inception: deep convolutional networks for computer vision.
+learning_to_remember_rare_events: a large-scale life-long memory module for use in deep learning.
+lfads: sequential variational autoencoder for analyzing neuroscience data.
+lm_1b: language modeling on the one billion word benchmark.
+namignizer: recognize and generate names.
+neural_gpu: highly parallel neural computer.
+neural_programmer: neural network augmented with logic and mathematic operations.
+next_frame_prediction: probabilistic future frame synthesis via cross convolutional networks.
+object_detection: localizing and identifying multiple objects in a single image.
+pcl_rl: code for several reinforcement learning algorithms, including Path Consistency Learning.
+ptn: perspective transformer nets for 3D object reconstruction.
+qa_kg: module networks for question answering on knowledge graphs.
+real_nvp: density estimation using real-valued non-volume preserving (real NVP) transformations.
+rebar: low-variance, unbiased gradient estimates for discrete latent variable models.
+resnet: deep and wide residual networks.
+skip_thoughts: recurrent neural network sentence-to-vector encoder.
+slim: image classification models in TF-Slim.
+street: identify the name of a street (in France) from an image using a Deep RNN.
+swivel: the Swivel algorithm for generating word embeddings.
+syntaxnet: neural models of natural language syntax.
+tcn: Self-supervised representation learning from multi-view video.
+textsum: sequence-to-sequence with attention model for text summarization.
+transformer: spatial transformer network, which allows the spatial manipulation of data within the network.
+video_prediction: predicting future video frames with neural advection.
+
+Neural Models of Syntax. 自然语言神经网络：
+https://github.com/tensorflow/models/tree/master/research/syntaxnet
+3，介绍视频
+
+goolge 的youku 账号视频：
+介绍TensorFlow：介绍session 变量，线性模型等基础概念。
+http://v.youku.com/v_show/id_XMjQ3OTYzODkyMA==.html
+
+网易云课堂
+
+无闻制作的视频，从代码方面讲解的，一些编程技巧的。
+http://study.163.com/course/courseMain.htm?courseId=1003209007
+
+udacity 课程：
+https://cn.udacity.com/course/deep-learning–ud730
+4，总结
+
+好好的学习下发TensorFlow 的模型，里面有非常多的东西。
+而且都是可以直接训练了之后应用的模型。
+都是google 分享出来了。以后慢慢研究了。
+
+本文的原文连接是: http://blog.csdn.net/freewebsys/article/details/78923977
+未经博主允许不得转载。
+博主地址是：http://blog.csdn.net/freewebsys

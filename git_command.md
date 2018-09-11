@@ -19,5 +19,5 @@
 	3、如果本地的版本不是最新的，可以使用命令: $git fetch origin, origin是本地仓库
 	4、把更新的内容合并到本地分支，可以使用命令: $git merge origin/master, 如果你不想手动合并， 那么使用: $git pull <本地仓库> master //这个命令可以拉去最新版本并自动合并
 
-
+分支：
 还有很多内容，参见网站：https://www.cnblogs.com/duwanjiang/p/5921167.html
